@@ -9,5 +9,8 @@ public class DemoGit
 
 	public static void main(String[] args) {
 		System.out.println("hello git");
+		DemoGit d = new DemoGit();
+		d.m1();
+		
 	}
 }
