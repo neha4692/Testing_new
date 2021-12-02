@@ -35,6 +35,7 @@ public class DemoGit
 		d.m2();
 		d.m3();
 		d.m4();
+		d.m5(); // adding test comments
 		
 	}
 }
