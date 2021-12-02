@@ -26,6 +26,10 @@ public class DemoGit
 	{
 		System.out.println("this is m6 method");
 	}
+	public void m7()
+	{
+		System.out.println("this is m7 method");
+	}
 	
 
 	public static void main(String[] args) {
