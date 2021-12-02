@@ -18,6 +18,10 @@ public class DemoGit
 	{
 		System.out.println("this is m4 method");
 	}
+	public void m5()
+	{
+		System.out.println("this is m5 method");
+	}
 	
 
 	public static void main(String[] args) {
