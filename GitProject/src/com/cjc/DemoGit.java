@@ -24,6 +24,9 @@ public class DemoGit
 		System.out.println("hello git");
 		DemoGit d = new DemoGit();
 		d.m1();
+		d.m2();
+		d.m3();
+		d.m4();
 		
 	}
 }
